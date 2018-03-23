@@ -1,0 +1,220 @@
+*{
+
+	margin: 0 auto;
+	padding:0;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+body{
+ 
+  font-family:Raleway, Open Sans, Droid Sans, Roboto,arial, sans-serif;
+}
+p{
+
+	position: relative;
+	top:20px;
+	left:10px;
+	 float: left;
+}
+img{
+position: relative;
+	width: 80px;
+	height: 90px;
+	float: left;
+	padding-right: 10px;
+  margin-bottom: 5px;
+}
+.chart_box, .chart_box1{
+border: 1px solid #7FB3D5;
+width: 250px;
+ height: 90px;
+ padding: 10px;
+ background-color: #EAEDED;
+ border-radius: 10px;
+   transition: box-shadow .3s ease
+}
+
+.name{
+
+
+}
+.job_description{
+padding-top: 5px;
+font-size: 13px;
+}
+
+#tricia_div{
+
+	position: relative;
+	top: 20px;
+	right: 200px;
+}
+#shane_div{
+
+	position: relative;
+	top:-92px;
+	left: 120px;
+}
+.vertical_line{
+ width: 2px;
+    height: 300px;
+    background-color: #7FB3D5;
+    position: relative;
+    }
+    #line1{
+
+    top: 80px;
+    left: 0px;
+    height: 89px;
+
+    transform: rotate(120deg);
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(120deg);
+}
+#cliff_div{
+position: relative;
+top: -4px;
+right: 200px;
+
+}
+#tito_div{
+position: relative;
+top: -116px;
+left:120px;
+
+}
+.horizontal_line1{
+
+	width: 320px;
+    height: 2px;
+    background-color: #7FB3D5;
+    position: relative;
+}
+#hr_line1{
+
+    bottom: 28px;
+   right: 40px;
+    height: 2px;
+
+    transform: rotate(120deg);
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(120deg);
+
+}
+#line2{
+	position: relative;
+	bottom:50px;
+ height:50px;
+ }
+ #Baron_div{
+
+ 	position: relative;
+top: 22px;
+right: 45px;
+ }
+ #line3{
+	position: relative;
+	bottom:-80px;
+	left: 4px;
+ height:40px;
+ }
+ #hr_line3{
+
+ 	position: relative;
+ 	top:60px;
+ 	right: 30px;
+ 	width: 950px;
+ }
+  #supervisors{
+width:1300px;
+    box-sizing: border-box;
+ 
+  	height: auto;
+position: relative;
+top: 80px;
+
+ }
+ #line4, #line5, #line6, #line7 {
+
+height: 22px;
+ }
+ #line4{
+
+ 	position: relative;
+ 	right: 475px;
+ }
+  #line5{
+
+ 	position: relative;
+ 	right: 150px;
+ 	bottom: 22px;
+ }
+  #line6{
+
+ 	position: relative;
+ 	left: 150px;
+ 	bottom: 44px;
+ }
+  #line7{
+ 	position: relative;
+ 	left: 475px;
+ 	bottom: 66px;
+ }
+ #mary_div, #Vacant_div, #Ross_div, #shaly_div, .chart_box1{
+ 	float: left;
+
+margin-left: 3%;
+ }
+ .class_customer_fte{
+
+  width: 250px;
+  height: auto;
+  position: relative;
+  top: 10px;
+  right: 494px;
+ }
+
+ .class_bocc_fte{
+ width: 250px;
+  height: auto;
+  position: relative;
+  bottom: 1952px;
+  left: 310px;
+
+ }
+.chart_box1{
+margin-bottom: 10px;
+}
+
+#layer1{
+
+    background:#FDFEFE;
+    height:1300px;
+    padding: 0;
+     margin-left:0 auto;
+    margin-right:0 auto;
+    width:1300px;
+    box-sizing: border-box;
+  
+
+ 
+}
+
+.class_client_fte{
+width: 250px;
+  height: auto;
+  position: relative;
+  bottom:966px;
+  right: 182px;
+ }
+
+}
+
+.chart_box:hover, .chart_box1:hover{
+border: 1px solid #1A5276;
+width: 250px;
+ height: 90px;
+ padding: 10px;
+ background-color:#D5DBDB;
+ 
+}
+
