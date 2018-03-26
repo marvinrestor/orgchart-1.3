@@ -1,7 +1,7 @@
-function calculateAttend(val)
+function calculateAttend()
 {
-var a = document.getElementById('rate').value;
-var attendance = (val * a);
+var a = document.getElementById('atten_id').value;
+var attendance = (.25 * a);
 //display the result
 var a = document.getElementById('w1').innerHTML = attendance;
 a.value = attendance;
